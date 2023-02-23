@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/ahmad92894/Logogenerator#readme",
   "devDependencies": {
-    "jest": "^24.9.0"
+    "jest": "^29.4.3"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
   }
 }
