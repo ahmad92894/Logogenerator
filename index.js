@@ -1,6 +1,6 @@
 const inquirer = require('inquirer');
 const {writeFile} = require('fs/promises');
-const { Triangle, Circle, Square } = require('./develop/tests/shapes');
+const {Square, Triangle, Circle} = require('./develop/tests/shapes');
 const SVG = require('./develop/tests/svg');
 const questions = [
   {
